@@ -1,7 +1,13 @@
-# This file plots the Global Active Power in kilowatts as a function of time 
-# for the two dates requested.
+#######################################################################
+## Programmer: GP
+## Date: 9/2/2020
+## Project: ExData_Plotting1.RProj
+## Description: This file plots the Global Active Power in kilowatts as a function of time 
+## or the two dates requested.
+#######################################################################
 
 # Run the file getData.R before running this file to get the zip file and extract it.
+# getData.R also loads required libraries: dplyr, lubridate
 # The file "household_power_consumption.txt" should now be in your working directory. 
 
 # Read the data into R and set the column names:

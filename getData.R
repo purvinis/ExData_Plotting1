@@ -1,3 +1,11 @@
+#######################################################################
+## Programmer: GP
+## Date: 9/2/2020
+## Project: ExData_Plotting1.RProj
+## Description: Exploratory Data Week 1 Assignment
+## This file downloads and extracts the zipped data, and loads libraries
+#######################################################################
+
 # Load needed packages and download the data
 library(dplyr)
 library(tidyr)
