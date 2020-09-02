@@ -38,4 +38,5 @@ png(filename = "plot2.png")
 plot(pdata2$dateAndTime,pdata2$Global_active_power,pch = "",
      xlab = "", ylab= "Global Active Power (kilowatts)")
 lines(pdata2$dateAndTime[1:2880],pdata$Global_active_power[1:2880])
+
 dev.off()
